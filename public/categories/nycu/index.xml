@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>NYCU on userwei 的部落格</title>
+        <link>http://localhost:1313/categories/nycu/</link>
+        <description>Recent content in NYCU on userwei 的部落格</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/nycu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>交大資工 112-1 修課心得</title>
+        <link>http://localhost:1313/post/nycu-course-experience_112-1/</link>
+        <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/nycu-course-experience_112-1/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;交大資工116級（112年入學）&lt;/li&gt;
+&lt;li&gt;記錄弱弱如我的修課紀錄與心得&lt;/li&gt;
+&lt;li&gt;作業成績只有比較少的才會全部填上去&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;邏輯設計&#34;&gt;
+    &lt;a href=&#34;#%e9%82%8f%e8%bc%af%e8%a8%ad%e8%a8%88&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    邏輯設計
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：515110&lt;br&gt;
+選別：必修&lt;br&gt;
+開課教師：張添烜&lt;br&gt;
+開課單位：電機系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;教授很認真，上課講簡報的速度掌握得很好，但不知道為什麼進度用飛的，最後提早兩週就教完了。&lt;/li&gt;
+&lt;li&gt;小考沒有考很難，大概比作業簡單一些些，只會有幾題比較難一點。&lt;/li&gt;
+&lt;li&gt;有一個 Verilog 加分作業，基本上就是在 HDLBits 上找幾題水題讓你寫，有寫就加分。&lt;/li&gt;
+&lt;li&gt;基本上邏輯設計只要有寫作業、上課認真的話，要拿高分沒有很難。&lt;/li&gt;
+&lt;li&gt;後半部分的內容比較艱澀一點，需要花點心思準備。&lt;/li&gt;
+&lt;li&gt;這堂課跟數位電路設計一樣，資工系不要去修，系辦說不能抵，我是小丑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;HW（20%）、Mid（22%）、Final（23%）、大會考（30%）、出席（5%）&lt;/li&gt;
+&lt;li&gt;調分：總成績+0.8&lt;/li&gt;
+&lt;li&gt;平均：81&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW avg&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mid&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Final&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;大會考&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;96.8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;96&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;87&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;86&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+（93）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;計算機概論與程式設計&#34;&gt;
+    &lt;a href=&#34;#%e8%a8%88%e7%ae%97%e6%a9%9f%e6%a6%82%e8%ab%96%e8%88%87%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    計算機概論與程式設計
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：515502&lt;br&gt;
+選別：必修&lt;br&gt;
+開課教師：黃敬群&lt;br&gt;
+開課單位：資訊共同&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;雖然這堂課叫計算機概論與程式設計，但基本上都在教程式設計，考試也都是上機考。&lt;/li&gt;
+&lt;li&gt;教授上課速度奇慢，助教都在教 pointer 了，他還在迴圈的樣子。&lt;/li&gt;
+&lt;li&gt;助教的英文不太好，但 e3 上都會有投影片，自己看就可以了。&lt;/li&gt;
+&lt;li&gt;每週上機的內容基本上就是助教會先唸一遍投影片，然後放最多三題的習題給大家練習。&lt;/li&gt;
+&lt;li&gt;課程的後半有人去爭取到了 OJ，但不是當機就是要等超久才會有結果，不用太期待。&lt;/li&gt;
+&lt;li&gt;此課程強迫使用 Visual Studio，MacOS 裝不了，助教似乎會給替代方案，不過作業評分不是用 OJ 就是用助教的 Visual Studio 去跑，跑不動你就是拿0分。&lt;/li&gt;
+&lt;li&gt;上機考還是需使用系計中的電腦，所以得熟悉一下 Visual Studio 要怎麼用。&lt;/li&gt;
+&lt;li&gt;上機考可以在開始考試前載投影片、之前寫的 code，但有些題目會比較難一點。&lt;/li&gt;
+&lt;li&gt;由於期中考平均不及格，教授決定給大家一個嶄新的機會，三次上機考中取兩次最高的作為期中、期末考的成績。&lt;/li&gt;
+&lt;li&gt;課堂加點加總成績，總共可以拿6分，再翹課啊哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;HW（40%）、Mid（30%）、Final（30%）&lt;/li&gt;
+&lt;li&gt;調分：未知&lt;/li&gt;
+&lt;li&gt;平均：75.9&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Lab avg&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW avg&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mid&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Final&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Extra&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+（97）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;線性代數&#34;&gt;
+    &lt;a href=&#34;#%e7%b7%9a%e6%80%a7%e4%bb%a3%e6%95%b8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    線性代數
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：515503&lt;br&gt;
+選別：必修&lt;br&gt;
+開課教師：易志偉&lt;br&gt;
+開課單位：資訊共同&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;教授人很好，有問題都可以去找他討論，不過上課進度是真的慢，常常上不完就考試了。&lt;/li&gt;
+&lt;li&gt;可能因為知道自己常常上不完，所以有 e3 上有放線上錄影的課程讓大家自己學習。&lt;/li&gt;
+&lt;li&gt;點名前總是很多人，點名完人直接少一半。&lt;/li&gt;
+&lt;li&gt;助教真的很讚，很會為同學們著想，聽說有人去要分也蠻乾脆的。&lt;/li&gt;
+&lt;li&gt;小考滿分都是50，前5次小考取最高的4次加上第6次小考平均後作為考試成績。&lt;/li&gt;
+&lt;li&gt;改題基本上是以全對／全錯來給分，粗心的人（像是我）要注意一下。&lt;/li&gt;
+&lt;li&gt;課本後的習題刷好刷滿，教授開的習題討論區記得看，題目有些會從討論區出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;考試成績（90%）、出席（10%）&lt;/li&gt;
+&lt;li&gt;調分：及格線以上者，總成績調整至60至98間&lt;/li&gt;
+&lt;li&gt;平均：未知&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz3&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz4&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz5&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz6&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;34&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;39&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;計算機網路概論&#34;&gt;
+    &lt;a href=&#34;#%e8%a8%88%e7%ae%97%e6%a9%9f%e7%b6%b2%e8%b7%af%e6%a6%82%e8%ab%96&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    計算機網路概論
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：515508&lt;br&gt;
+選別：選修&lt;br&gt;
+開課教師：王協源&lt;br&gt;
+開課單位：資訊共同&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;不點名，但課堂總是能坐滿，很神奇的一個教授！&lt;/li&gt;
+&lt;li&gt;上課好好聽，可以學到很多東西，段考也不會考太差。&lt;/li&gt;
+&lt;li&gt;老師上課很有條理，會提出問題讓大家思考，有時候還會輔以實作或其他資料補充其他的知識，如 tracert、TCAM 等。&lt;/li&gt;
+&lt;li&gt;考試內容不只投影片，還會有一些上課提過的東西。&lt;/li&gt;
+&lt;li&gt;感覺期中期末考考題比考古題難上許多，每題都是加強版，段考都有在寫作文的感覺。&lt;/li&gt;
+&lt;li&gt;實驗課有去基本上就是滿分，都還蠻好玩的。
+&lt;ul&gt;
+&lt;li&gt;Lab1: Wireshark 教學與封包抓取練習。&lt;/li&gt;
+&lt;li&gt;Lab2: 壓網路線，記得護套要先裝進去再壓線，不然你會獲得兩條可移動護套的網路線。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;Mid（25%）、Final（25%）、Lab（10%*2）、HW(10%*3）&lt;/li&gt;
+&lt;li&gt;調分：無&lt;/li&gt;
+&lt;li&gt;平均：76.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Lab avg&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW3&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mid&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Final&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;96&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;94&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;93&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;88&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+（94）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;資料庫系統概論&#34;&gt;
+    &lt;a href=&#34;#%e8%b3%87%e6%96%99%e5%ba%ab%e7%b3%bb%e7%b5%b1%e6%a6%82%e8%ab%96&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    資料庫系統概論
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：515605&lt;br&gt;
+選別：選修&lt;br&gt;
+開課教師：彭文志&lt;br&gt;
+開課單位：資訊共同&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;教授上課常常聽不大懂，簡報需要通靈一下才能看懂。&lt;/li&gt;
+&lt;li&gt;不點名，因此教室基本上一半都是空的。&lt;/li&gt;
+&lt;li&gt;考古題刷刷蠻有用的，不過蠻多都沒有答案的。&lt;/li&gt;
+&lt;li&gt;作業內容可以學到很多東西，推薦自學能力強的人修。&lt;/li&gt;
+&lt;li&gt;期末專題是一組挑一個主題寫一個網頁並與資料庫連接，需支援 CRUD 的操作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;Mid（15%）、Final（15%）、HW（5%+15%*3）、Final Project（20%）&lt;/li&gt;
+&lt;li&gt;調分：Final（+14）&lt;/li&gt;
+&lt;li&gt;平均：71.6 -&amp;gt; 74.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW0&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HW3&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Final Project&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mid&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Final&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;95.8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;87&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+（94）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;從經典故事談學術研究倫理&#34;&gt;
+    &lt;a href=&#34;#%e5%be%9e%e7%b6%93%e5%85%b8%e6%95%85%e4%ba%8b%e8%ab%87%e5%ad%b8%e8%a1%93%e7%a0%94%e7%a9%b6%e5%80%ab%e7%90%86&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    從經典故事談學術研究倫理
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：561053&lt;br&gt;
+選別：領域課程&lt;br&gt;
+開課教師：潘璿安&lt;br&gt;
+開課單位：通識中心&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;基本上就是去聽故事的，非常快樂。&lt;/li&gt;
+&lt;li&gt;老師口條很棒，簡報做的也很漂亮，可以學到除了學倫事件以外的東西。&lt;/li&gt;
+&lt;li&gt;全部的作業內容（演講心得、企劃書等）都會上 Turnitin，也要做好 APA 引用。&lt;/li&gt;
+&lt;li&gt;期末報告是選一個經典學術研究倫理事件進行分析，不可與老師上課講過主題的重複。&lt;/li&gt;
+&lt;li&gt;給分感覺很甜，同組與認識的都拿 A+，不過沒有公開分數。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;演講心得（15%）、課堂表現（15%）、小組專題企畫書（25%）、期末發表（35%）、同儕互評（10%）&lt;/li&gt;
+&lt;li&gt;調分：未知&lt;/li&gt;
+&lt;li&gt;平均：未知&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;演講心得&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;課堂表現&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;小組專題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;未知&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;未知&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;未知&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;機器人與人工智慧系統探索&#34;&gt;
+    &lt;a href=&#34;#%e6%a9%9f%e5%99%a8%e4%ba%ba%e8%88%87%e4%ba%ba%e5%b7%a5%e6%99%ba%e6%85%a7%e7%b3%bb%e7%b5%b1%e6%8e%a2%e7%b4%a2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    機器人與人工智慧系統探索
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：561502&lt;br&gt;
+選別：領域課程&lt;br&gt;
+開課教師：陳永平&lt;br&gt;
+開課單位：共教會&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;上課教材是老師自編的講義，老師會在上面講的很開心。&lt;/li&gt;
+&lt;li&gt;其中幾堂課會有心得寫作，會給以你一個主題（如：李約瑟難題等）問你你的看法，大約寫400個字左右。&lt;/li&gt;
+&lt;li&gt;回答問題會加分，分數加蠻多的，適合社牛去修。&lt;/li&gt;
+&lt;li&gt;上課基本上都要到，未到次數太多會被重扣。&lt;/li&gt;
+&lt;li&gt;基本上蠻涼的，上課都可以做自己的事，不回答問題都有乖乖上課的話出席／課堂表現的分數就是80分。&lt;/li&gt;
+&lt;li&gt;分組的話一組最少四人、限兩個同系的在同組，想抱團參加的要注意。&lt;/li&gt;
+&lt;li&gt;期末報告是有幾個主題讓你選，都是老師上課分享的主題，選一個主題延伸作為報告內容，報告長度20至25分鐘。&lt;/li&gt;
+&lt;li&gt;海報競賽則是把報告內容畫成四格漫畫，組別互評後依排名給80／85／90／95的分數。&lt;/li&gt;
+&lt;li&gt;不過海報競賽被玩壞了變成校抓，大家都在演戲，戲精可以考慮選這門課。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;出席／課堂表現（30%）、心得（30%）、分組報告（20%）、海報競賽（20%）&lt;/li&gt;
+&lt;li&gt;調分：無&lt;/li&gt;
+&lt;li&gt;平均：85.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;出席／課堂表現&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;心得&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;分組報告&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;海報競賽&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;80&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;88&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90.4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;80&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A（85）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;英文閱讀與討論&#34;&gt;
+    &lt;a href=&#34;#%e8%8b%b1%e6%96%87%e9%96%b1%e8%ae%80%e8%88%87%e8%a8%8e%e8%ab%96&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    英文閱讀與討論
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;課號：562017&lt;br&gt;
+選別：共同-外語&lt;br&gt;
+開課教師：張月菁&lt;br&gt;
+開課單位：語言中心&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;推推，是一門好課，只要帶著一顆快樂的心去上課就好了。&lt;/li&gt;
+&lt;li&gt;每週會有一個主題，上課前讀一篇短文章（最長2頁），在課堂上會有小考（5至8題選擇題），內容都是考短文章的內容，只要有看過就可以考很好了。&lt;/li&gt;
+&lt;li&gt;課堂上會有同主題另一篇文章，每組會進行討論完成一份學習單（Google 文件共編）。&lt;/li&gt;
+&lt;li&gt;期中期末考很簡單，題型是字彙配合題、閱讀測驗，都是選擇題。&lt;/li&gt;
+&lt;li&gt;口頭報告是選擇老師講過的其中一個主題進行延伸，一組拍一部8至10分鐘的影片，並進行互評。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;評分方式
+&lt;ul&gt;
+&lt;li&gt;Course Attendance（10%）、Quiz（10%）、Course Participation（10%）、Peer Evaluation（10%）、Mid（15%）、Final（15%）、Group Oral Reports（15%*2）&lt;/li&gt;
+&lt;li&gt;調分：無&lt;/li&gt;
+&lt;li&gt;平均：未知&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Quiz avg&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Oral1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Oral2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mid&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Final&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;91&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;94&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;97&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;94&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A+（94）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

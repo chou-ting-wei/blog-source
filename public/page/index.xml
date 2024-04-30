@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on userwei 的部落格</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on userwei 的部落格</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>文章</title>
+        <link>http://localhost:1313/page/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>連結</title>
+        <link>http://localhost:1313/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜尋</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>關於我</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;h2 id=&#34;簡介&#34;&gt;
+    &lt;a href=&#34;#%e7%b0%a1%e4%bb%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    簡介
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;目前就讀於 NYCU CS&lt;/li&gt;
+&lt;li&gt;努力鑽研寫程式的技巧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;專業技術&#34;&gt;
+    &lt;a href=&#34;#%e5%b0%88%e6%a5%ad%e6%8a%80%e8%a1%93&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    專業技術
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Programming Language
+&lt;ul&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Web
+&lt;ul&gt;
+&lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;興趣愛好&#34;&gt;
+    &lt;a href=&#34;#%e8%88%88%e8%b6%a3%e6%84%9b%e5%a5%bd&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    興趣愛好
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;羽球&lt;/li&gt;
+&lt;li&gt;睡覺&lt;/li&gt;
+&lt;li&gt;雜耍&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
