@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Meichu Hackathon on userwei 的部落格</title>
-        <link>https://example.com/categories/meichu-hackathon/</link>
+        <link>http://localhost:1313/categories/meichu-hackathon/</link>
         <description>Recent content in Meichu Hackathon on userwei 的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://example.com/categories/meichu-hackathon/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-tw</language><atom:link href="http://localhost:1313/categories/meichu-hackathon/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

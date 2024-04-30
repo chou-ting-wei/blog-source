@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on userwei 的部落格</title>
-        <link>https://example.com/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on userwei 的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-tw</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>文章</title>
-        <link>https://example.com/page/archives/</link>
+        <link>http://localhost:1313/page/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/archives/</guid>
+        <guid>http://localhost:1313/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>連結</title>
-        <link>https://example.com/page/links/</link>
+        <link>http://localhost:1313/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/links/</guid>
+        <guid>http://localhost:1313/page/links/</guid>
         <description></description>
         </item>
         <item>
         <title>搜尋</title>
-        <link>https://example.com/page/search/</link>
+        <link>http://localhost:1313/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/search/</guid>
+        <guid>http://localhost:1313/page/search/</guid>
         <description></description>
         </item>
         <item>
         <title>關於我</title>
-        <link>https://example.com/page/about/</link>
+        <link>http://localhost:1313/page/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/about/</guid>
+        <guid>http://localhost:1313/page/about/</guid>
         <description>&lt;h2 id=&#34;簡介&#34;&gt;
     &lt;a href=&#34;#%e7%b0%a1%e4%bb%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     簡介
