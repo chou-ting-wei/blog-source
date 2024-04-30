@@ -19,7 +19,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: favicon.png
 
     footer:
         since: 2024
@@ -208,6 +208,12 @@ markup:
         startLevel: 2
     highlight:
         noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4
 
 sitemap:
   changeFreq: weekly
