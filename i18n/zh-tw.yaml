@@ -6,8 +6,7 @@ darkMode:
 
 list:
     page:
-        one: "共 {{ .Count }} 頁"
-        other: "共 {{ .Count }} 頁"
+        other: "共 {{ .Count }} 篇文章"
 
     section:
         other: 段落

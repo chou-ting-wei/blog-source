@@ -19,7 +19,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: favicon.png
+    favicon: favicon.webp
+    timezone: "Asia/Taipei"
 
     footer:
         since: 2024
@@ -36,7 +37,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.webp
 
     article:
         math: true
@@ -216,7 +217,7 @@ markup:
         tabWidth: 4
 
 sitemap:
-  changeFreq: weekly
-  disable: false
-  filename: sitemap.xml
-  priority: -1
+    changeFreq: weekly
+    disable: false
+    filename: sitemap.xml
+    priority: -1

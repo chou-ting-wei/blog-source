@@ -7,13 +7,10 @@ menu:
             icon: user
 title: 關於我
 description: userwei
-# date: '2024-01-01'
 aliases:
   - about-me
 readingTime: false
-# license: false
 comments: false
-# lastmod: '2024-04-30'
 ---
 ## 簡介
 * 目前就讀於 NYCU CS
