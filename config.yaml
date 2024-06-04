@@ -191,10 +191,9 @@ menu:
           url: https://github.com/chou-ting-wei/
           params:
               icon: brand-github
-
         - identifier: mail
           name: Mail
-          url: mailto:chou.ting.wei@outlook.com
+          url: mailto:hsindolgue@gmail.com
           params:
               icon: mail
 
