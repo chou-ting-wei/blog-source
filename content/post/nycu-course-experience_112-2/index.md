@@ -2,6 +2,7 @@
 title: 交大資工 112-2 修課心得
 slug:  nycu-course-experience_112-2
 date:  2024-06-01
+lastmod: 2024-06-04
 description: 大一下修過的各種課程
 categories:
     - NYCU

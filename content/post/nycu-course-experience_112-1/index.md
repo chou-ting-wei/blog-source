@@ -1,7 +1,8 @@
 ---
 title: 交大資工 112-1 修課心得
 slug:  nycu-course-experience_112-1
-date:  2024-03-10
+date:  2024-01-01
+lastmod: 2024-03-10
 description: 大一上修過的各種課程
 categories:
     - NYCU
