@@ -2,7 +2,7 @@
 title: 交大資工 112-2 修課心得
 slug:  nycu-course-experience_112-2
 date:  2024-06-01
-lastmod: 2024-06-09
+lastmod: 2024-06-11
 description: 大一下修過的各種課程
 categories:
     - NYCU
@@ -87,7 +87,7 @@ tags :
 - 成績
     | Lab avg | HW1 | HW2 | Mid  | Final | Total |
     |:-------:|:---:|:---:|:----:|:-----:|:-----:|
-    |   100   |     |     | 68.5 |  92   |       |
+    |   100   |     |     | 68.5 |  95   |       |
 
 ## 計算機組織
 > 課號：515511  
