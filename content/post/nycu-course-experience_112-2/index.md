@@ -173,12 +173,12 @@ tags :
     - 題目大多都是從 UVa 出的，考前可以到 [GPE Helper](https://gpe-helper.setsal.dev/problems) 刷一些題目。
     - 如果沒選這堂課但在學期中通過 GPE 的話可以期末加選，好酷。
     - 考了 2024.05.29 這場，不會到很難，題目如下：
-        - What is the Median?
+        - [What is the Median?](https://vjudge.net/problem/UVA-10107)
         - Unique Lines
-        - Glass Beads
+        - [Glass Beads](https://vjudge.net/problem/UVA-719)
         - Prefix Expression Evaluation
-        - Lakes
-        - Tug of War
+        - [Lakes](https://vjudge.net/problem/UVA-722)
+        - [Tug of War](https://vjudge.net/problem/UVA-10032)
 - 評分方式
     - GPE（100%）
 - 成績
