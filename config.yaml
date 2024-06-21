@@ -191,6 +191,11 @@ menu:
           url: https://github.com/chou-ting-wei/
           params:
               icon: brand-github
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/userwei
+          params:
+              icon: linkedin
         - identifier: mail
           name: Mail
           url: mailto:userwei.blog@gmail.com
