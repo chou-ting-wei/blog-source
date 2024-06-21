@@ -2,7 +2,7 @@
 title: 交大資工 112-2 修課心得
 slug:  nycu-course-experience_112-2
 date:  2024-06-01
-lastmod: 2024-06-18
+lastmod: 2024-06-21
 description: 大一下修過的各種課程
 categories:
     - NYCU
@@ -135,7 +135,7 @@ tags :
 - 成績
     | HW0 | HW1 | HW2 | HW3 | HW4 | Final Project | Final | Total |
     |:---:|:---:|:---:|:---:|:---:|:-------------:|:-----:|:-----:|
-    | 100 |     |     |     |     |               |  94   | A（） |
+    | 100 |     |     |     |     |               |  94   |       |
 
 ## 網路規劃與管理實務
 > 課號：515605  
@@ -204,6 +204,6 @@ tags :
     - 調分：
     - 平均：
 - 成績
-    | Quiz avg | Critique Avg | Mid | Final Project | Total |
-    |:--------:|:------------:|:---:|:-------------:|:-----:|
-    |   7.2    |     8.8      |     |     17.3      |       |
+    | Quiz avg | Critique Avg | Mid | Final Project | Total  |
+    |:--------:|:------------:|:---:|:-------------:|:------:|
+    |   7.2    |     8.8      |     |     17.3      | A+（） |
