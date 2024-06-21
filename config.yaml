@@ -193,7 +193,7 @@ menu:
               icon: brand-github
         - identifier: mail
           name: Mail
-          url: mailto:hsindolgue@gmail.com
+          url: mailto:userwei.blog@gmail.com
           params:
               icon: mail
 
