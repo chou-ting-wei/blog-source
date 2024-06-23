@@ -7,7 +7,7 @@ categories:
     - Meichu Hackathon
 tags : 
     - 教學
-hidden: true
+draft: true
 ---
 * 文章中所有以 `$` 為前綴的指令需被替換，若無特別說明則可以自行命名
 * 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.blog@gmail.com) 詢問
@@ -204,7 +204,7 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
 透過內建的網頁即時預覽功能，可以讓我們了解網頁目前的內容。  
 1. 在終端機中輸入以下指令：
     ```
-    hugo server
+    hugo server -D
     ```
 2. 若網頁沒有錯誤，終端機會顯示以下內容：
     ```
