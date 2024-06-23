@@ -7,7 +7,7 @@ categories:
     - Meichu Hackathon
 tags : 
     - 教學
-draft: true
+hidden: true
 ---
 * 文章中所有以 `$` 為前綴的指令需被替換，若無特別說明則可以自行命名
 * 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.blog@gmail.com) 詢問
