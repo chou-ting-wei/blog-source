@@ -26,11 +26,11 @@ brew install hugo
 
 # Linux
 sudo snap install hugo
-```
+```  
 在安裝完成後使用以下指令測試 Hugo 是否安裝成功：
 ```sh
 hugo version
-```
+```  
 ### 安裝 Git
 至 [Git](https://git-scm.com/) 官網下載安裝。
 
@@ -38,7 +38,7 @@ hugo version
 選擇網頁存放的資料夾，並輸入以下指令新增網頁：
 ```sh
 hugo new site $siteName
-```
+```  
 完成後會在 `$siteName` 資料夾中生成以下的檔案：
 ```
 ├── archetypes
@@ -51,12 +51,12 @@ hugo new site $siteName
 ├── layouts
 ├── static
 └── themes
-```
+```  
 為了方便推送到 GitHub，我們先進入剛剛生成的資料夾初始化整個 Git 儲存庫：
 ```sh
 cd $siteName
 git init
-```
+```  
 
 ### 選擇主題
 在 [Hugo Themes](https://themes.gohugo.io/) 中有提供許多類型的主題，可以依個人喜好挑選，這裡我選擇 [Stack](https://stack.jimmycai.com/) 主題作為範例。  
@@ -64,7 +64,7 @@ git init
 1. 在網站的根目錄中打開終端機，利用 `git submodule` 將主題下載至 `themes` 資料夾中：
     ```sh
     git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
-    ```
+    ```   
 2. 刪除 `hugo.toml` 檔案並將 `themes/hugo-theme-stack` 中的 `config.yaml` 複製到根目錄中，在此檔案的最上方加入以下內容：
     ```yaml
     baseurl: https://example.com
@@ -72,14 +72,14 @@ git init
     theme: hugo-theme-stack
     paginate: 5
     title: $blogTitle
-    ```
+    ```  
 3. 其他設定可以參考 Stack 官方提供的 [Config](https://stack.jimmycai.com/config/) 依個人喜好修改：
    * 網站 icon 設定  
     將 `favicon.webp` 置於 `static` 的資料夾中，並在 `config.yaml` 修改以下內容：
         ```yaml
         params:
             favicon: favicon.webp
-        ```
+        ```  
    * 側邊欄設定  
       1. 將自己的大頭貼 `avatar.webp` 置於 `assets/img` 資料夾中（若無則自行新增），並在 `config.yaml` 修改以下內容：
             ```yaml
@@ -92,7 +92,7 @@ git init
                         enabled: true
                         local: true
                         src: img/avatar.webp
-            ```
+            ```  
        2. 在副標題下方可以加上連結提供導向至自己的 GitHub 等網站，在 `config.yaml` 最下方新增以下內容：
             ```yaml
             menu:
@@ -102,7 +102,7 @@ git init
                       url: $githubLink
                       params:
                           icon: brand-github
-            ```
+            ```  
        3. 若要新增導覽列則可參考 `themes/hugo-theme-stack/exampleSite` 中的檔案內容與架構，修改後 `content` 資料夾中的檔案架構將如下所示：
             ```
             ├── _index.md
@@ -117,7 +117,7 @@ git init
             │   └── search
             │       └── index.md
             └── post
-            ```
+            ```  
    * 文章設定  
         修改以下 `config.yaml` 的內容讓文章可以支援 LaTeX，並加上目錄、閱讀時長、預設 CC 授權等內容：
         ```yaml
@@ -129,7 +129,7 @@ git init
                 license:
                     enabled: true
                     default: CC BY-NC-SA 4.0
-        ```
+        ```  
    * 留言設定
         1. 至 [Disqus](https://disqus.com/) 建立新帳戶，並創建新的 site，從設定中查詢 shortname。
         2. 修改以下 `config.yaml` 的內容以增加留言功能（將 `$shortName` 替換為 Disqus 設定中的 shortname）：
@@ -146,7 +146,7 @@ git init
                         apiKey:
                         admin:
                         adminLabel:
-            ```
+            ```  
    * widget 設定  
         修改以下 `config.yaml` 的內容使主頁及文章中顯示搜尋、目錄等小工具：
         ```yaml
@@ -163,7 +163,7 @@ git init
                 page: 
                     - type: search
                     - type: toc
-        ```
+        ```  
    * zh-tw 用詞設定  
     將 `themes/hugo-theme-stack/i18n` 中的 `zh-tw.yaml` 複製到 `i18n` 資料夾中，並依需求更改：
         ```yaml
@@ -172,7 +172,7 @@ git init
         darkMode:
             other: 深色模式
 
-        ```
+        ```  
 
 ### 撰寫文章
 Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語法來撰寫文章，這裡採用的方法是為每篇文章都建立一個資料夾，以方便整理資源。  
@@ -183,7 +183,7 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
     │   └── index.md
     └── myPost2
         └── index.md
-    ```
+    ```  
 3. 利用 [Visual Studio Code](https://code.visualstudio.com/) 等文字編輯器編輯 `index.md`，以下為基本的檔案內容（除文章屬性架構外皆可進行修改）：
     ```md
     ---
@@ -198,21 +198,21 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
     ---
     ## Hugo Blog
     content
-    ```
+    ```  
 
 ### 預覽 Hugo 網頁
 透過內建的網頁即時預覽功能，可以讓我們了解網頁目前的內容。  
 1. 在終端機中輸入以下指令：
     ```
     hugo server -D
-    ```
+    ```  
 2. 若網頁沒有錯誤，終端機會顯示以下內容：
     ```
     Serving pages from disk
     Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
     Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) 
     Press Ctrl+C to stop
-    ```
+    ```  
 3. 在瀏覽器中連上 `http://localhost:1313/` 即可預覽目前的網頁。
 
 ### 推送至 GitHub
@@ -225,7 +225,7 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
     resources
     assets/jsconfig.json
     .hugo_build.lock
-    ```
+    ```  
 3. 複製頁面上儲存庫的網址 `https://github.com/xxx/xxx.git`，並在根目錄中執行以下指令（`$repoLink` 需替換成儲存庫的網址），將全部檔案推送到 GitHub 儲存庫中：
     ```sh
     git add .

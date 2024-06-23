@@ -7,7 +7,19 @@ title: userwei 的部落格
 DefaultContentLanguage: zh-tw
 hasCJKLanguage: true
 
-disqusShortname: userwei
+languages:
+    zh-tw:
+        languageName: 繁體中文
+        title: userwei 的部落格
+        weight: 1
+    en:
+        languageName: English
+        title: userwei's blog
+        weight: 2
+
+services:
+    disqus:
+        shortname: userwei
 
 module:
     hugoVersion:
