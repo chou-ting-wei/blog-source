@@ -2,7 +2,7 @@
 title: 交大資工 112-2 修課心得
 slug:  nycu-course-experience_112-2
 date:  2024-06-01
-lastmod: 2024-06-21
+lastmod: 2024-06-22
 description: 大一下修過的各種課程
 categories:
     - NYCU
@@ -12,7 +12,7 @@ tags :
 * 交大資工 116 級（112 年入學）
 * 作業成績只有比較少的才會全部填上去
 * 課堂作業可以參考 [GitHub](https://github.com/chou-ting-wei?tab=repositories) 上的內容
-* 有其他問題歡迎 [來信](mailto:userwei.blog@gmail.com) 詢問
+* 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.blog@gmail.com) 詢問
 
 ## 微分方程
 > 課號：515156  
