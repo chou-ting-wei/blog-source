@@ -16,7 +16,7 @@ tags:
 
 ## Logic Design
 > Course ID: 515110  
-> Requirement: Mandatory  
+> Type: Required  
 > Instructor: Zhang Tianxuan  
 > Department: Electrical Engineering  
 - Insights
@@ -37,7 +37,7 @@ tags:
 
 ## Introduction to Computers and Programming
 > Course ID: 515502  
-> Requirement: Mandatory  
+> Type: Required  
 > Instructor: Huang Jingqun  
 > Department: Common Information  
 - Insights
@@ -62,7 +62,7 @@ tags:
 
 ## Linear Algebra
 > Course ID: 515503  
-> Requirement: Mandatory  
+> Type: Required  
 > Instructor: Yi Zhiwei  
 > Department: Common Information  
 - Insights
@@ -84,7 +84,7 @@ tags:
 
 ## Introduction to Computer Networks
 > Course ID: 515508  
-> Requirement: Elective  
+> Type: Elective  
 > Instructor: Wang Xieyuan  
 > Department: Common Information  
 - Insights
@@ -107,7 +107,7 @@ tags:
 
 ## Introduction to Database Systems
 > Course ID: 515605  
-> Requirement: Elective  
+> Type: Elective  
 > Instructor: Peng Wenzhi  
 > Department: Common Information  
 - Insights
@@ -125,9 +125,9 @@ tags:
     |:---:|:---:|:---:|:---:|:-------------:|:---:|:-----:|:--------:|
     | 100 | 110 | 90  | 90  |     95.8      | 87  |  75   | A+ (94)  |
 
-## Academic Research Ethics Through Classic Stories
+## Academic Research Ethics: Principles and Case Studies
 > Course ID: 561053  
-> Requirement: Domain Course  
+> Type: Domain Course  
 > Instructor: Pan Xuanan  
 > Department: General Education Center  
 - Insights
@@ -145,9 +145,9 @@ tags:
     |:-----------:|:--------------------:|:-------------:|:--------:|
     |  Not disclosed  |  Not disclosed  |  Not disclosed  | A+ (91)  |
 
-## Exploration of Robots and Artificial Intelligence Systems
+## Exploring Robotic and Artificial Intelligent Systems
 > Course ID: 561502  
-> Requirement: Domain Course  
+> Type: Domain Course  
 > Instructor: Chen Yongping  
 > Department: General Education Assembly  
 - Insights
@@ -171,7 +171,7 @@ tags:
 
 ## English Reading and Discussion
 > Course ID: 562017  
-> Requirement: Common-Foreign Language  
+> Type: Common-Foreign Language  
 > Instructor: Zhang Yuejing  
 > Department: Language Center  
 - Insights
