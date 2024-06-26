@@ -10,7 +10,7 @@ tags:
 draft: true
 ---
 * All commands prefixed with `$` should be replaced as appropriate unless specified otherwise.
-* For any questions, feel free to leave a comment below or [email me](mailto:userwei.blog@gmail.com).
+* For any further questions, feel free to leave a comment below the article or [email](mailto:userwei.blog@gmail.com) for inquiries
 
 ## Hugo
 [Hugo](https://gohugo.io/) is a static site generator developed in Go, touted as the world's fastest site-building tool. Apart from its high speed, Hugo offers a variety of themes and supports real-time rendering and multilingual switching, enhancing both the writing and website setup experience.
