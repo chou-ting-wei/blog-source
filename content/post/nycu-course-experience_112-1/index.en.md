@@ -28,7 +28,7 @@ tags:
     - This course, like Digital Circuit Design, should not be taken by Computer Science students; the department office said it cannot be counted, and I was the fool.
 - Grading
     - HW (20%), Mid (22%), Final (23%), Comprehensive Exam (30%), Attendance (5%)
-    - Grade Adjustment: Total score + 0.8
+    - Grade Adjustment: Overall grade + 0.8
     - Average: 81
 - Grades
     | HW avg | Mid | Final | Comprehensive Exam |  Total   |
