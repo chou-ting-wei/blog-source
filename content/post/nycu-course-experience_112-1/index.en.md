@@ -75,7 +75,7 @@ tags:
     - It was beneficial to thoroughly work through the exercises in the textbook, and remember to check the discussion forum set up by the professor as some quiz questions were drawn from there.
 - Grading
     - Exam Scores (90%), Attendance (10%)
-    - Grade Adjustment: For those passing, adjust total scores between 60 to 98
+    - Grade Adjustment: Grades above the pass line are adjusted between 60 to 98
     - Average: Not disclosed
 - Grades
     | Quiz1 | Quiz2 | Quiz3 | Quiz4 | Quiz5 | Quiz6 | Total |

@@ -29,7 +29,7 @@ tags:
     - Later learned about the overall grading adjustments and grade distribution; the professor is quite lenient.
 - Grading
     - Mid (30%), Final (40%), HW (15%), Quiz (15%)
-    - Adjustment: Grades above the pass line are adjusted between 60 to 100
+    - Grade Adjustment: Grades above the pass line are adjusted between 60 to 100
     - Average: 78.5
 - Grades
     | HW avg | Quiz1 | Quiz2 | Mid | Total |
@@ -49,7 +49,7 @@ tags:
     - Grading is primarily based on answers, not the process, so it's essential to avoid careless mistakes.
 - Grading
     - Quiz (40%), Mid (30%), Final (30%)
-    - Adjustment: None
+    - Grade Adjustment: None
     - Average: 77
 - Grades
     | Quiz avg | Mid | Final | Total  |
@@ -70,7 +70,7 @@ tags:
     - The professor provided a set of old exam questions from 2012, which can be useful for review.
 - Grading
     - HW (20%), Quiz (10%), Mid (35%), Final (35%)
-    - Adjustment: Not disclosed
+    - Grade Adjustment: Not disclosed
     - Average: Not disclosed
 - Grades
     | HW avg | Quiz avg | Mid | Final | Total   |
@@ -92,7 +92,7 @@ tags:
     - The final exam is much simpler, especially if you understand data structures like AVL Trees and Heaps.
 - Grading
     - Lab (20%), HW (10%*2), Quiz (5%*2), Mid (20%), Final (30%)
-    - Adjustment: Overall grade +1
+    - Grade Adjustment: Overall grade +1
     - Average: 74.8
 - Grades
     | Lab avg | HW1 | HW2 | Quiz1 | Quiz2 | Mid  | Final | Total   |
@@ -117,7 +117,7 @@ tags:
     - Although the average isn't very high, about one-third of the class received an A+, making it a generally rewarding course.
 - Grading
     - Lab (10%*3+15%+4.5%), Mid (25%), Final (30%)
-    - Adjustment: Overall grade +2
+    - Grade Adjustment: Overall grade +2
     - Average: 71
 - Grades
     | Lab1 | Lab2 | Lab3 | Lab4 | Lab5 | Mid | Final | Total   |
@@ -138,7 +138,7 @@ tags:
     - The final exam allows reference materials, and some students brought a complete set of printed slides. I took past exams with notes on them.
 - Grading
     - HW (60%), Final (20%), Final Project (20%)
-    - Adjustment: Not disclosed
+    - Grade Adjustment: Not disclosed
     - Average: Not disclosed
 - Grades
     | HW0 | HW1 | HW2 | HW3 | HW4 | Final Project | Final | Total   |
@@ -162,14 +162,14 @@ tags:
     - TAs mentioned grade adjustments, though specific details weren't disclosed; likely not a significant boost.
 - Grading
     - Project (10%*4), Mid (20%), Final1 (20%), Final2 (20%)
-    - Adjustment: Not disclosed
+    - Adjustment: Overall grade +1
     - Average: Not disclosed
 - Grades
     | Project1 | Project2 | Project3 | Project4 | Mid | Final1 | Final2 | Total  |
     |:--------:|:--------:|:--------:|:--------:|:---:|:------:|:------:|:------:|
-    |   110    |    94    |   96.8   |   98.9   | 90  |   78   |   80   | A+ (90) |
+    |   110    |    94    |   96.8   |   98.9   | 90  |   78   |   80   | A+ (91) |
 
-## Basic Programming Design
+## Basic Programming  
 > Course Number: 515612  
 > Type: Required  
 > Instructors: Wu Kai Qiang, Hong Rui Hong, Huang Ning Qi  
