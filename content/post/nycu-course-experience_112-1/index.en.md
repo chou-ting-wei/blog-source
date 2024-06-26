@@ -1,24 +1,24 @@
 ---
-title: NYCU Computer Science 112-1 Course Reviews
+title: NYCU CS 112-1 Course Experience
 slug: nycu-course-experience_112-1
 date: 2024-01-01
 lastmod: 2024-03-10
-description: Various courses taken in freshman year
+description: Various courses taken in the first semester of freshman year
 categories:
     - NYCU
 tags: 
-    - Course Reviews
+    - Course Experience
 ---
-* NYCU Computer Science, class of 116 (admitted in 112)
+* NYCU Computer Science, class of 116 (Enrolled in 2023)
 * Only courses with fewer homework grades are fully listed
 * Classroom assignments can be referenced on [GitHub](https://github.com/chou-ting-wei?tab=repositories)
 * For any further questions, feel free to leave a comment below the article or [email](mailto:userwei.blog@gmail.com) for inquiries
 
 ## Logic Design
-> Course ID: 515110  
+> Course Nunber: 515110  
 > Type: Required  
-> Instructor: Zhang Tianxuan  
-> Department: Electrical Engineering  
+> Instructor: Zhang Tian Xuan  
+> Department: College of Electrical Engineering  
 - Insights
     - The professor is very serious, and manages the pace of the lecture slides well, but somehow the course progressed very quickly and ended two weeks early.
     - Quizzes were not too difficult, slightly easier than the homework, with only a few challenging questions.
@@ -36,10 +36,10 @@ tags:
     |  96.8  | 96  |  87   |   86   | A+ (93)  |
 
 ## Introduction to Computers and Programming
-> Course ID: 515502  
+> Course Nunber: 515502  
 > Type: Required  
-> Instructor: Huang Jingqun  
-> Department: Common Information  
+> Instructor: Huang Jing Qun  
+> Department: College of Computer Science  
 - Insights
     - Although this course is titled Introduction to Computers and Programming, it mainly teaches programming, and the exams are practical programming tests.
     - The professor's teaching pace is oddly slow, with the teaching assistants covering pointers while he was still on loops.
@@ -61,10 +61,10 @@ tags:
     |   100   |  100   | 85  |  100  |   x   | A+ (97)  |
 
 ## Linear Algebra
-> Course ID: 515503  
+> Course Nunber: 515503  
 > Type: Required  
-> Instructor: Yi Zhiwei  
-> Department: Common Information  
+> Instructor: Yi Zhi Wei  
+> Department: College of Computer Science  
 - Insights
     - The professor is very approachable for discussion, although the course pace is really slow and often didn't cover all the material before exams.
     - Possibly because he knew he often couldn't finish, there were online recorded lectures available on e3 for self-study.
@@ -83,10 +83,10 @@ tags:
     |  34   |  50   |  45   |  39   |  50   |  32   |  A+   |
 
 ## Introduction to Computer Networks
-> Course ID: 515508  
+> Course Nunber: 515508  
 > Type: Elective  
-> Instructor: Wang Xieyuan  
-> Department: Common Information  
+> Instructor: Wang Xie Yuan  
+> Department: College of Computer Science  
 - Insights
     - No roll call, yet the classroom is always full, quite a magical professor!
     - Paying attention in class is rewarding as it's very informative, and the tests are reasonable.
@@ -106,10 +106,10 @@ tags:
     |   100   | 96  | 94  | 100 | 93  |  88   | A+ (94)  |
 
 ## Introduction to Database Systems
-> Course ID: 515605  
+> Course Nunber: 515605  
 > Type: Elective  
-> Instructor: Peng Wenzhi  
-> Department: Common Information  
+> Instructor: Peng Wen Zhi  
+> Department: College of Computer Science  
 - Insights
     - The professor's lectures were often hard to understand, and the slides required some 'psychic' ability to decipher.
     - No roll call, thus the classroom was usually half empty.
@@ -126,10 +126,10 @@ tags:
     | 100 | 110 | 90  | 90  |     95.8      | 87  |  75   | A+ (94)  |
 
 ## Academic Research Ethics: Principles and Case Studies
-> Course ID: 561053  
-> Type: Domain Course  
-> Instructor: Pan Xuanan  
-> Department: General Education Center  
+> Course Nunber: 561053  
+> Type: Core Curriculum 
+> Instructor: Pan Xuan An  
+> Department: Center of General Education  
 - Insights
     - Essentially about listening to stories, very enjoyable.
     - The instructor was an excellent speaker and the presentations were well made, offering insights beyond just academic scandals.
@@ -146,10 +146,10 @@ tags:
     |  Not disclosed  |  Not disclosed  |  Not disclosed  | A+ (91)  |
 
 ## Exploring Robotic and Artificial Intelligent Systems
-> Course ID: 561502  
-> Type: Domain Course  
-> Instructor: Chen Yongping  
-> Department: General Education Assembly  
+> Course Nunber: 561502  
+> Type: Core Curriculum  
+> Instructor: Chen Yong Ping  
+> Department: Liberal Arts College  
 - Insights
     - Course materials were the instructor's self-compiled notes, which he thoroughly enjoyed discussing.
     - Some classes included reflection writing, asking for your opinion on topics like the Joseph Needham question, typically about 400 words.
@@ -170,10 +170,10 @@ tags:
     |           80          |     88      |     90.4     |         80         | A (85)  |
 
 ## English Reading and Discussion
-> Course ID: 562017  
-> Type: Common-Foreign Language  
-> Instructor: Zhang Yuejing  
-> Department: Language Center  
+> Course Nunber: 562017  
+> Type: Language & Communication  
+> Instructor: Zhang Yue Jing  
+> Department: Language Teaching and Research Center  
 - Insights
     - Highly recommended; just bring a joyful heart to class.
     - Each week focused on a topic, with a short article to read before class (up to 2 pages), followed by a quiz (5 to 8 multiple-choice questions) on the article content; if you've read it, you could score well.
