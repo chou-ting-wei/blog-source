@@ -1,13 +1,12 @@
 ---
 title: Meichu Hackathon 12th Techshare
 slug:  meichu-hackathon-12th_techshare
-date:  2024-06-23
+date:  2024-07-01
 description: Building personal websites with Hugo and Vercel
 categories:
     - Meichu Hackathon
 tags: 
     - Tutorial
-draft: true
 ---
 * All commands prefixed with `$` should be replaced as appropriate unless specified otherwise.
 * For any further questions, feel free to leave a comment below the article or [email](mailto:userwei.blog@gmail.com) for inquiries
