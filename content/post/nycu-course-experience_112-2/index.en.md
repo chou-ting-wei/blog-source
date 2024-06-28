@@ -138,8 +138,8 @@ tags:
     - The final exam allows reference materials, and some students brought a complete set of printed slides. I took past exams with notes on them.
 - Grading
     - HW (60%), Final (20%), Final Project (20%)
-    - Grade Adjustment: Not disclosed
-    - Average: Not disclosed
+    - Grade Adjustment: None
+    - Average: 86
 - Grades
     | HW0 | HW1 | HW2 | HW3 | HW4 | Final Project | Final | Total   |
     |:---:|:---:|:---:|:---:|:---:|:-------------:|:-----:|:--------:|
