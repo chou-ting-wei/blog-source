@@ -3,6 +3,6 @@ title: 技術
 slug: tech
 image: tech.webp
 style:
-    background: "#2a9d8f"
+    background: "#7baac3"
     color: "#fff"
 ---
