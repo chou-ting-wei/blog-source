@@ -5,7 +5,7 @@ date:  2024-06-23
 lastmod: 2024-06-23
 description: 大一暑期修過的各種課程
 categories:
-    - NYCU
+    - Education
 tags : 
     - 修課心得
 draft: true

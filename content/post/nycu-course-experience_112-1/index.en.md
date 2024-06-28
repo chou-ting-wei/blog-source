@@ -5,8 +5,8 @@ date: 2024-01-01
 lastmod: 2024-03-10
 description: Various courses taken in the first semester of freshman year
 categories:
-    - NYCU
-tags: 
+    - Education
+tags : 
     - Course Experience
 ---
 * NYCU Computer Science, class of 116 (Enrolled in 2023)

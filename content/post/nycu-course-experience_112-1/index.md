@@ -5,7 +5,7 @@ date:  2024-01-01
 lastmod: 2024-03-10
 description: 大一上修過的各種課程
 categories:
-    - NYCU
+    - Education
 tags : 
     - 修課心得
 ---

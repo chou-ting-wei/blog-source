@@ -5,7 +5,7 @@ date:  2024-06-01
 lastmod: 2024-06-26
 description: 大一下修過的各種課程
 categories:
-    - NYCU
+    - Education
 tags : 
     - 修課心得
 ---

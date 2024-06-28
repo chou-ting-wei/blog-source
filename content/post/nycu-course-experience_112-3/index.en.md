@@ -4,8 +4,8 @@ slug:  nycu-course-experience_112-3
 date:  2024-06-23
 description: Various courses taken in the summer semester of freshman year
 categories:
-    - NYCU
-tags:
+    - Education
+tags : 
     - Course Experience
 draft: true
 ---

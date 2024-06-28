@@ -5,8 +5,8 @@ date:  2024-06-01
 lastmod: 2024-06-26
 description: Various courses taken in the second semester of freshman year
 categories:
-    - NYCU
-tags:
+    - Education
+tags : 
     - Course Experience
 ---
 * NYCU Computer Science, class of 116 (Enrolled in 2023)
