@@ -1,8 +1,8 @@
 ---
-title: Meichu Hackathon 12th Techshare
-slug:  meichu-hackathon-12th_techshare
+title: Building personal websites with Hugo and Vercel
+slug:  hugo-vercel-personal-site
 date:  2024-06-29
-description: Building personal websites with Hugo and Vercel
+description: Meichu Hackathon 12th Techshare
 categories:
     - Tech
 tags : 
