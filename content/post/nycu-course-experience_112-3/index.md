@@ -2,7 +2,6 @@
 title: 交大資工 112-3 修課心得
 slug:  nycu-course-experience_112-3
 date:  2024-06-23
-lastmod: 2024-06-23
 description: 大一暑期修過的各種課程
 categories:
     - Education

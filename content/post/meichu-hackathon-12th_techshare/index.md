@@ -1,7 +1,7 @@
 ---
 title: 梅竹黑客松 12th Techshare
 slug:  meichu-hackathon-12th_techshare
-date:  2024-06-28
+date:  2024-06-29
 description: 利用 Hugo 與 Vercel 建立個人網頁
 categories:
     - Tech
@@ -13,7 +13,18 @@ draft: true
 * 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.blog@gmail.com) 詢問
 
 ## Hugo
-[Hugo](https://gohugo.io/) 是基於 Go 語言開發的靜態網站生成器，號稱為世界上最快的網站建構工具。除了生成網頁的速度極快，Hugo 也有許多主題可供選擇，並支援實時渲染、多語系切換的功能，可以優化文章的寫作與網站架設的體驗。
+[Hugo](https://gohugo.io/) 是基於 Go 語言開發的靜態網站生成器，號稱為世界上最快的網站建構工具。除了生成網頁的速度極快，Hugo 也有許多主題可供選擇，並支援實時渲染、多語系切換的功能，可以優化文章的寫作與網站架設的體驗。下方為比較 Hugo 和 Hexo 兩種靜態網站生成器的表格：
+
+| 功能                | Hugo                                  | Hexo                                   |
+|--------------------|---------------------------------------|----------------------------------------|
+| **程式語言**       | Go                                    | Node.js                                |
+| **速度**           | 非常快                                | 中等                                   |
+| **主題 / 插件**      | 多                                     | 非常多                          |
+| **內容格式**       | Markdown、HTML 等                     | Markdown、HTML 等                      |
+| **學習難度**       | 中等                                  | 適合初學者                             |
+| **依賴性**         | 無                                    | 需要 Node.js                           |
+| **搜尋引擎優化**   | 內建支援                              | 需要透過插件                            |
+| **多語言支援**     | 有                                    | 有                                     |
 
 ### 安裝 Hugo
 由於 Hugo 並未提供 GUI，因此需要由終端機安裝，以下是 Hugo 官方提供在不同系統下的 [安裝方法](https://gohugo.io/categories/installation/)： 
@@ -235,7 +246,15 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
     git push -u origin main
     ```
 ## Vercel
-[Vercel](https://vercel.com/) 是一個提供網頁的託管服務的平台，類似於 [GitHub Pages](https://pages.github.com/) 但更為強大、快速。另外 Vercel 也可以在有新的 Git 推送時自動化部署新的網頁，並每月提供 100GB 的免費流量，對小型網站架設是一大福音。
+[Vercel](https://vercel.com/) 是一個提供網頁的託管服務的平台，類似於 [GitHub Pages](https://pages.github.com/) 但更為強大、快速。另外 Vercel 也可以在有新的 Git 推送時自動化部署新的網頁，並每月提供 100GB 的免費流量，對小型網站架設是一大福音。下方表格為幾個常見網頁託管平台的比較：
+| 功能            | Vercel                                 | Netlify                               | GitHub Pages            |
+|-----------------|----------------------------------------|---------------------------------------|-------------------------|
+| **最適用於**    | Next.js 應用                           | 靜態網站                              | 靜態網站                |
+| **部署來源**     | GitHub、GitLab、Bitbucket              | GitHub、GitLab、Bitbucket             | 僅限 GitHub             |
+| **建構速度**    | 極快                                   | 快                                    | 較慢                     |
+| **頻寬限制**    | 每月 100GB（免費方案）                 | 每月 100GB（免費方案）                 | 無限制                   |
+| **可靠性保證**  | 99.95%                                 | 99.99%                                | 無                       |
+| **分析工具**    | 內建                                   | 內建                                   | 無                       |
 
 ### 部署網站
 1. 至 Vercel 官網以 GitHub 登入。

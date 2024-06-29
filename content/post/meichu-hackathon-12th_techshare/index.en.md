@@ -1,7 +1,7 @@
 ---
 title: Meichu Hackathon 12th Techshare
 slug:  meichu-hackathon-12th_techshare
-date:  2024-06-28
+date:  2024-06-29
 description: Building personal websites with Hugo and Vercel
 categories:
     - Tech
@@ -13,7 +13,19 @@ draft: true
 * For any further questions, feel free to leave a comment below the article or [email](mailto:userwei.blog@gmail.com) for inquiries
 
 ## Hugo
-[Hugo](https://gohugo.io/) is a static site generator developed in Go, touted as the world's fastest site-building tool. Apart from its high speed, Hugo offers a variety of themes and supports real-time rendering and multilingual switching, enhancing both the writing and website setup experience.
+[Hugo](https://gohugo.io/) is a static site generator developed in Go, touted as the world's fastest site-building tool. Apart from its high speed, Hugo offers a variety of themes and supports real-time rendering and multilingual switching, enhancing both the writing and website setup experience. Below is a table comparing Hugo and Hexo, two popular static site generators:
+
+| Feature                | Hugo                                  | Hexo                                   |
+|------------------------|---------------------------------------|----------------------------------------|
+| **Language**           | Go                                    | Node.js                                |
+| **Speed**              | Very fast                             | Moderate                               |
+| **Themes/Plugins**     | Large library                         | Extensive ecosystem                    |
+| **Content Formats**    | Markdown, HTML, etc.                  | Markdown, HTML, etc.                   |
+| **Learning Curve**     | Moderate                              | Beginner-friendly                      |
+| **Dependencies**       | None                                  | Node.js                                |
+| **SEO**                | Built-in support                      | Plugins available                      |
+| **Multilingual Support**| Yes                                  | Yes                                    |
+
 
 ### Installing Hugo
 Since Hugo does not have a GUI, it needs to be installed via the command line. Here are the [installation methods](https://gohugo.io/categories/installation/) provided by Hugo for different operating systems:
@@ -227,7 +239,16 @@ For the subsequent web deployment, it is necessary to push the web pages generat
     git push -u origin main
     ```
 ## Vercel
-[Vercel](https://vercel.com/) is a web hosting service platform, similar to [GitHub Pages](https://pages.github.com/) but more powerful and faster. Additionally, Vercel can automatically deploy new web pages with new Git pushes and offers 100GB of free traffic per month, which is a great boon for small website setups.
+[Vercel](https://vercel.com/) is a web hosting service platform, similar to [GitHub Pages](https://pages.github.com/) but more powerful and faster. Additionally, Vercel can automatically deploy new web pages with new Git pushes and offers 100GB of free traffic per month, which is a great boon for small website setups. Below is a table comparing several common web hosting platforms:
+
+| Feature             | Vercel                                 | Netlify                               | GitHub Pages            |
+|---------------------|----------------------------------------|---------------------------------------|-------------------------|
+| **Optimized for**   | Next.js applications                   | Static sites                          | Static sites            |
+| **Deploys from**    | GitHub, GitLab, Bitbucket              | GitHub, GitLab, Bitbucket             | GitHub only             |
+| **Build Times**     | Very fast                              | Fast                                  | Slow                    |
+| **Bandwidth Limit** | 100GB/month (free plan)                | 100GB/month (free plan)               | Unlimited               |
+| **Uptime Guarantee**| 99.95%                                 | 99.99%                                | None                    |
+| **Analytics**       | Built-in                               | Built-in                              | None                    |
 
 ### Deploy Website
 1. Log in to Vercel's official website with GitHub.
