@@ -7,7 +7,6 @@ categories:
     - Tech
 tags : 
     - Tutorial
-draft: true
 ---
 * All commands prefixed with `$` should be replaced as appropriate unless specified otherwise.
 * For any further questions, feel free to leave a comment below the article or [email](mailto:userwei.blog@gmail.com) for inquiries
