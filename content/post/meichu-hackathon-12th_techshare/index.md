@@ -1,7 +1,7 @@
 ---
 title: 利用 Hugo 與 Vercel 建立個人網頁
 slug:  hugo-vercel-personal-site
-date:  2024-06-29
+date:  2024-07-01
 description: 梅竹黑客松 12th Techshare
 categories:
     - Tech

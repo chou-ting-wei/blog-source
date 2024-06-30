@@ -6,6 +6,7 @@ title: userwei 的部落格
 
 DefaultContentLanguage: zh-tw
 hasCJKLanguage: true
+timezone: "Asia/Taipei"
 
 languages:
     zh-tw:
@@ -32,7 +33,6 @@ params:
     featuredImageField: image
     rssFullContent: true
     favicon: favicon.webp
-    timezone: "Asia/Taipei"
 
     footer:
         since: 2024

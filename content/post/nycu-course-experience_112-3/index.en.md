@@ -1,7 +1,7 @@
 ---
 title: NYCU CS 112-3 Course Experience
 slug:  nycu-course-experience_112-3
-date:  2024-06-23
+date:  2024-07-01
 description: Various courses taken in the summer semester of freshman year
 categories:
     - Education

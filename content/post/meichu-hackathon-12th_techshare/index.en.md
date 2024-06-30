@@ -1,7 +1,7 @@
 ---
 title: Building personal websites with Hugo and Vercel
 slug:  hugo-vercel-personal-site
-date:  2024-06-29
+date:  2024-07-01
 description: Meichu Hackathon 12th Techshare
 categories:
     - Tech
