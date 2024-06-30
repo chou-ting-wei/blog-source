@@ -43,7 +43,7 @@ tags :
 > Department: College of Computer Science 
 - Experience
     - Attendance is not taken in class. Many students only attend exams because the teaching pace is somewhat slow.
-    - Quizzes and midterms mostly consist of past exam questions, with one or two new questions. If you practice enough, you won't fail.
+    - Quizzes and midterms mostly consist of past exam questions, with few new questions. If you practice enough, you won't fail.
     - Slides and recommended textbook exercises are provided. If you have time after practicing past questions, you can work on these. Additionally, course recordings are available, but they can only be played at 2.5x speed, which is quite slow.
     - There are no assignments; all grades are based on exams. Exam scope and times are announced beforehand, and there are no surprise quizzes.
     - Exams are graded based on answers only, not the process. If you're careless like me, be cautious to avoid mistakes.
