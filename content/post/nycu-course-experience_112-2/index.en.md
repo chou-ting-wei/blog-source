@@ -42,11 +42,14 @@ tags :
 > Instructor: Yan Li Xing  
 > Department: College of Computer Science 
 - Experience
-    - The instructor doesn't take attendance since the teaching pace is quite slow, which leads many to only attend the exams.
-    - Most quiz and midterm questions are recycled, with only one or two new problems; scoring high isn't too difficult if you've practiced.
-    - Slides and recommended textbook exercises are provided. If there's time after reviewing past exams, it's good to try these as well. Additionally, course videos are available but can only be played at 2.5x speed, which is quite slow.
-    - No homework; all grades are from exam scores. Exam scopes and timings are announced in advance without any surprise tests.
-    - Grading is primarily based on answers, not the process, so it's essential to avoid careless mistakes.
+    - Attendance is not taken in class. Many students only attend exams because the teaching pace is somewhat slow.
+    - Quizzes and midterms mostly consist of past exam questions, with one or two new questions. If you practice enough, you won't fail.
+    - Slides and recommended textbook exercises are provided. If you have time after practicing past questions, you can work on these. Additionally, course recordings are available, but they can only be played at 2.5x speed, which is quite slow.
+    - There are no assignments; all grades are based on exams. Exam scope and times are announced beforehand, and there are no surprise quizzes.
+    - Exams are graded based on answers only, not the process. If you're careless like me, be cautious to avoid mistakes.
+    - If the TA finds the answers on your quiz hard to understand or spots even minor wording errors, they will likely mark the entire answer wrong.
+    - The professor does not adjust scores at all, citing fairness in grading. Even if you're just a bit short of passing, they won't help you.
+
 - Grading
     - Quiz (40%), Mid (30%), Final (30%)
     - Grade Adjustment: None

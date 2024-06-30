@@ -19,7 +19,7 @@ tags :
 > Type: Required  
 > Instructor: Zhang Tian Xuan  
 > Department: College of Electrical Engineering  
-- Insights
+- Experience
     - The professor is very serious, and manages the pace of the lecture slides well, but somehow the course progressed very quickly and ended two weeks early.
     - Quizzes were not too difficult, slightly easier than the homework, with only a few challenging questions.
     - There was an extra credit assignment involving Verilog on HDLBits, just solving some easy problems for extra points.
@@ -40,7 +40,7 @@ tags :
 > Type: Required  
 > Instructor: Huang Jing Qun  
 > Department: College of Computer Science  
-- Insights
+- Experience
     - Although this course is titled Introduction to Computers and Programming, it mainly teaches programming, and the exams are practical programming tests.
     - The professor's teaching pace is oddly slow, with the teaching assistants covering pointers while he was still on loops.
     - The teaching assistant's English was not very good, but slides were available on e3, which you could study on your own.
@@ -65,7 +65,7 @@ tags :
 > Type: Required  
 > Instructor: Yi Zhi Wei  
 > Department: College of Computer Science  
-- Insights
+- Experience
     - The professor is very approachable for discussion, although the course pace is really slow and often didn't cover all the material before exams.
     - Possibly because he knew he often couldn't finish, there were online recorded lectures available on e3 for self-study.
     - The classroom was always full before roll call, but attendance dropped by half after.
@@ -87,7 +87,7 @@ tags :
 > Type: Elective  
 > Instructor: Wang Xie Yuan  
 > Department: College of Computer Science  
-- Insights
+- Experience
     - No roll call, yet the classroom is always full, quite a magical professor!
     - Paying attention in class is rewarding as it's very informative, and the tests are reasonable.
     - The instructor is well-organized and poses questions that make you think, sometimes supplemented by practical examples or additional information like tracert, TCAM, etc.
@@ -110,7 +110,7 @@ tags :
 > Type: Elective  
 > Instructor: Peng Wen Zhi  
 > Department: College of Computer Science  
-- Insights
+- Experience
     - The professor's lectures were often hard to understand, and the slides required some 'psychic' ability to decipher.
     - No roll call, thus the classroom was usually half empty.
     - Studying past exam papers was somewhat helpful, although many did not have answers.
@@ -130,7 +130,7 @@ tags :
 > Type: Core Curriculum 
 > Instructor: Pan Xuan An  
 > Department: Center of General Education  
-- Insights
+- Experience
     - Essentially about listening to stories, very enjoyable.
     - The instructor was an excellent speaker and the presentations were well made, offering insights beyond just academic scandals.
     - All assignments (presentation reflections, project proposals, etc.) were submitted through Turnitin and required proper APA citations.
@@ -150,7 +150,7 @@ tags :
 > Type: Core Curriculum  
 > Instructor: Chen Yong Ping  
 > Department: Liberal Arts College  
-- Insights
+- Experience
     - Course materials were the instructor's self-compiled notes, which he thoroughly enjoyed discussing.
     - Some classes included reflection writing, asking for your opinion on topics like the Joseph Needham question, typically about 400 words.
     - Responding to questions during class contributed significantly to grades, making it suitable for active participants.
@@ -174,7 +174,7 @@ tags :
 > Type: Language & Communication  
 > Instructor: Zhang Yue Jing  
 > Department: Language Teaching and Research Center  
-- Insights
+- Experience
     - Highly recommended; just bring a joyful heart to class.
     - Each week focused on a topic, with a short article to read before class (up to 2 pages), followed by a quiz (5 to 8 multiple-choice questions) on the article content; if you've read it, you could score well.
     - Another article on the same topic was discussed in class, with each group completing a learning sheet (collaboratively edited Google document).
