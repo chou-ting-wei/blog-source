@@ -253,7 +253,7 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
 | **部署來源**     | GitHub、GitLab、Bitbucket              | GitHub、GitLab、Bitbucket             | 僅限 GitHub             |
 | **建構速度**    | 極快                                   | 快                                    | 較慢                     |
 | **頻寬限制**    | 每月 100GB（免費方案）                 | 每月 100GB（免費方案）                 | 無限制                   |
-| **可靠性保證**  | 99.95%                                 | 99.99%                                | 無                       |
+| **可靠性保證**  | 99.99%                                 | 99.99%                                | 無                       |
 | **分析工具**    | 內建                                   | 內建                                   | 無                       |
 
 ### 部署網站

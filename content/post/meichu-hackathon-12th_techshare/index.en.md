@@ -247,7 +247,7 @@ For the subsequent web deployment, it is necessary to push the web pages generat
 | **Deploys from**    | GitHub, GitLab, Bitbucket              | GitHub, GitLab, Bitbucket             | GitHub only             |
 | **Build Times**     | Very fast                              | Fast                                  | Slow                    |
 | **Bandwidth Limit** | 100GB/month (free plan)                | 100GB/month (free plan)               | Unlimited               |
-| **Uptime Guarantee**| 99.95%                                 | 99.99%                                | None                    |
+| **Uptime Guarantee**| 99.99%                                 | 99.99%                                | None                    |
 | **Analytics**       | Built-in                               | Built-in                              | None                    |
 
 ### Deploy Website
