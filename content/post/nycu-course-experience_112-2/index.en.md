@@ -48,7 +48,7 @@ tags :
     - There are no assignments; all grades are based on exams. Exam scope and times are announced beforehand, and there are no surprise quizzes.
     - Exams are graded based on answers only, not the process. If you're careless like me, be cautious to avoid mistakes.
     - If the TA finds the answers on your quiz hard to understand or spots even minor wording errors, they will likely mark the entire answer wrong.
-    - The professor does not adjust scores at all, citing fairness in grading. Even if you're just a bit short of passing, they won't help you.
+    - The professor does not adjust scores at all, even if you're just a bit short of passing, he won't help you.
 
 - Grading
     - Quiz (40%), Mid (30%), Final (30%)
