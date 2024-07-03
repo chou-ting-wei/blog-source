@@ -17,8 +17,8 @@ I'm 周廷威, currently a sophomore studying Computer Science at National Yang 
 
 ## Experience
 * NYCU CS Information Technology Center - Teaching Assistant
-* NYCU CS Student Association - Development Team Member
-* Meichu Hackathon - Development Team Member
+* NYCU CS Student Association - Development Department Member
+* Meichu Hackathon - Development Department Member
 
 ## Project Experience
 * [Pain Interaction System](https://github.com/chou-ting-wei/NYCU_Service-Learning-Nanao)  
