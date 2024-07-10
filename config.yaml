@@ -1,4 +1,4 @@
-baseurl: https://www.blog.userwei.com
+baseurl: https://blog.userwei.com
 languageCode: zh-tw
 theme: hugo-theme-stack
 paginate: 5
