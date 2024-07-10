@@ -10,6 +10,17 @@
 #   <_________>
 
 User-agent: *
-Disallow:
+Disallow: /page/
+Disallow: /page/search/
+Disallow: /categories/
+Disallow: /categories/*
+Disallow: /tags/
+Disallow: /tags/*
+Disallow: /en/page/
+Disallow: /en/page/search/
+Disallow: /en/categories/
+Disallow: /en/categories/*
+Disallow: /en/tags/
+Disallow: /en/tags/*
 
 Sitemap: https://blog.userwei.com/sitemap.xml
