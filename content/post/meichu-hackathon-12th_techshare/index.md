@@ -337,4 +337,4 @@ Robots.txt 是提供給機器人的一組指令，主要是管理網路爬蟲的
     Disallow: /page/
     Disallow: /categories/*
     ```
-3. 等待 Google Search Console 自行檢索，可在 `設定 >> robots.txt` 中查看。
+3. 等待 Google Search Console 自行檢索，可在 `設定 >> robots.txt` 中查看，若顯示已擷取即完成設定。
