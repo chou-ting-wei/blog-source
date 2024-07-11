@@ -324,3 +324,17 @@ Sitemap 是一種網頁導覽的檔案，它記載所有網頁的連結與架構
 4. 提交後狀態顯示成功即完成設定。
 
 ### Robots.txt 設定
+Robots.txt 是提供給機器人的一組指令，主要是管理網路爬蟲的活動，能夠告訴搜尋引擎檢索器可以存取網站上的哪些網址。
+1. 在 `static` 資料夾中新增 `robots.txt`，內容如下：
+    ```txt
+    User-agent: *
+    Disallow: 
+
+    Sitemap: https://example.com/sitemap.xml
+    ```
+2.  Disallow 的部分可依個人需求自行增加，這邊簡單舉幾個例子：
+    ```txt
+    Disallow: /page/
+    Disallow: /categories/*
+    ```
+3. 等待 Google Search Console 自行檢索，可在 `設定 >> robots.txt` 中查看。
