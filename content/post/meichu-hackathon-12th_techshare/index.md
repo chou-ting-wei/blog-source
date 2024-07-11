@@ -9,7 +9,7 @@ tags :
     - 教學
 ---
 * 文章中所有以 `$` 為前綴的指令需被替換，若無特別說明則可以自行命名
-* 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.blog@gmail.com) 詢問
+* 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.contact@gmail.com) 詢問
 
 ## Hugo
 [Hugo](https://gohugo.io/) 是基於 Go 語言開發的靜態網站生成器，號稱為世界上最快的網站建構工具。除了生成網頁的速度極快，Hugo 也有許多主題可供選擇，並支援實時渲染、多語系切換的功能，可以優化文章的寫作與網站架設的體驗。下方為比較 Hugo 和 Hexo 兩種靜態網站生成器的表格：
@@ -322,3 +322,5 @@ Sitemap 是一種網頁導覽的檔案，它記載所有網頁的連結與架構
 2. 將更新後的網站 push 至 GitHub，等待 Vercel 重新建置網頁。
 3. 在 Google Search Console 的後台側邊欄選取 `Sitemap` 並新增 `https://www.xxx.com/sitemap.xml`。
 4. 提交後狀態顯示成功即完成設定。
+
+### Robots.txt 設定
