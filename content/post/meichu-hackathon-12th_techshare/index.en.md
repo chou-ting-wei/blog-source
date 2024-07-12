@@ -316,3 +316,20 @@ A Sitemap is a type of web navigation file that records all web page links and s
 2. Push the updated website to GitHub and wait for Vercel to rebuild the web page.
 3. In the Google Search Console backend sidebar, select `Sitemap` and add `https://www.xxx.com/sitemap.xml`.
 4. After submission, if the status shows success, the setup is complete.
+
+### Robots.txt Configuration
+Robots.txt is a set of instructions provided to robots, primarily used to manage the activities of web crawlers. It can inform search engine bots about which URLs on a website can be accessed.
+
+1. In the `static` folder, create a `robots.txt` file with the following content:
+    ```txt
+    User-agent: *
+    Disallow: 
+
+    Sitemap: https://example.com/sitemap.xml
+    ```
+2. The `Disallow` section can be customized according to individual needs. Here are a few examples:
+    ```txt
+    Disallow: /page/
+    Disallow: /categories/*
+    ```
+3. Wait for Google Search Console to automatically crawl the site. You can check the status in `Settings >> robots.txt`. If it shows as fetched, the configuration is complete.
