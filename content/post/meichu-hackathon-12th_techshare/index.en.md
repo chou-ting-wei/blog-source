@@ -28,17 +28,18 @@ tags :
 
 ### Installing Hugo
 Since Hugo does not have a GUI, it needs to be installed via the command line. Here are the [installation methods](https://gohugo.io/categories/installation/) provided by Hugo for different operating systems:
-```sh
-# Windows
-choco install hugo-extended
-
-# macOS
-brew install hugo
-
-# Linux
-sudo snap install hugo
-```
-
+1. Windows
+    ```sh
+    choco install hugo-extended
+    ```
+2. macOS
+    ```sh
+    brew install hugo
+    ```
+3. Linux
+    ```sh
+    sudo snap install hugo
+    ```  
 After installing, use the following command to test if Hugo was installed successfully:
 ```sh
 hugo version
