@@ -8,14 +8,16 @@
 # /  |   |  \
 
 User-agent: *
-Disallow: /page/$
+Disallow: /page/
 Disallow: /page/search/
-Disallow: /post/$
+Allow: /page/about/
+Allow: /page/archives/
 Disallow: /categories/
 Disallow: /tags/
-Disallow: /en/page/$
+Disallow: /en/page/
 Disallow: /en/page/search/
-Disallow: /en/post/$
+Allow: /en/page/about/
+Allow: /en/page/archives/
 Disallow: /en/categories/
 Disallow: /en/tags/
 
