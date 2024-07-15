@@ -260,13 +260,9 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
 ### 部署網站
 1. 至 Vercel 官網以 GitHub 登入。
 2. 選擇 `Add New >> Project`，並於左側列表選擇剛剛設定好的 Git Repository。
-3. 將 `Framework Preset` 設為 `Hugo`，並將 `Build and Output Settings` 中的 `Build Command` 覆蓋為以下內容：
-    ```sh
-    git submodule update --init --recursive && hugo --gc
-    ```
-4. 點擊展開 `Environment Variables` 加入 `HUGO_VERSION` 與本地端使用的版本（可使用 `hugo version` 指令查詢）：
+3. 將 `Framework Preset` 設為 `Hugo`，並點擊展開 `Environment Variables` 加入 `HUGO_VERSION` 與本地端使用的版本（可使用 `hugo version` 指令查詢）：
 ![vercel1](img/vercel1.webp)
-5. 若看到以下畫面即完成網頁的部署。
+4. 若看到以下畫面即完成網頁的部署。
 ![vercel2](img/vercel2.webp)
 
 ### 連結域名
