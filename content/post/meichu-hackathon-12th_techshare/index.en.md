@@ -253,9 +253,13 @@ For the subsequent web deployment, it is necessary to push the web pages generat
 ### Deploy Website
 1. Log in to Vercel's official website with GitHub.
 2. Select `Add New >> Project`, and choose the Git Repository you just set up from the list on the left.
-3. Set `Framework Preset` to `Hugo`, and click to expand `Environment Variables` to add `HUGO_VERSION` with the version used locally (can be checked with the `hugo version` command):
+3. Set the `Framework Preset` to `Hugo`, and override the `Build Command` in the `Build and Output Settings` with the following content:
+    ```sh
+    git submodule update --init --recursive && hugo --gc
+    ```
+4. Click to expand `Environment Variables` and add `HUGO_VERSION` with the version you are using locally (you can check it with the `hugo version` command):
 ![vercel1](img/vercel1.webp)
-4. If you see the following screen, the website deployment is complete.
+5. If you see the following screen, the website deployment is complete.
 ![vercel2](img/vercel2.webp)
 
 ### Link Domain
