@@ -8,7 +8,7 @@ categories:
 tags : 
     - Tutorial
 ---
-* All commands prefixed with `$` should be replaced as appropriate unless specified otherwise.
+* All commands enclosed in `<>` within the article need to be replaced. If not otherwise specified, you can name them as you see fit.
 * For any further questions, feel free to leave a comment below the article or [email](mailto:userwei.contact@gmail.com) for inquiries
 
 ## Hugo
@@ -50,9 +50,9 @@ Download and install from the [Git](https://git-scm.com/) official website.
 ### Initialize Environment
 Choose the folder where the webpage will be stored, and enter the following command to create a new webpage:
 ```sh
-hugo new site $siteName
+hugo new site <siteName>
 ```  
-After completion, the following files will be generated in the `$siteName` folder:
+After completion, the following files will be generated in the `<siteName>` folder:
 ```
 ├── archetypes
 │   └── default.md
@@ -67,7 +67,7 @@ After completion, the following files will be generated in the `$siteName` folde
 ```  
 To easily push to GitHub, let's first enter the folder that was just created and initialize the entire Git repository:
 ```sh
-cd $siteName
+cd <siteName>
 git init
 ```  
 
@@ -84,7 +84,7 @@ In [Hugo Themes](https://themes.gohugo.io/), there are many types of themes avai
     languageCode: en-us
     theme: hugo-theme-stack
     paginate: 5
-    title: $blogTitle
+    title: <blogTitle>
     ```  
 3. Other settings can be modified according to personal preference by referring to the official Stack [Config](https://stack.jimmycai.com/config/):
    * Website icon setting  
@@ -100,7 +100,7 @@ In [Hugo Themes](https://themes.gohugo.io/), there are many types of themes avai
                 sidebar:
                     compact: false
                     emoji: 
-                    subtitle: $subTitle
+                    subtitle: <subTitle>
                     avatar:
                         enabled: true
                         local: true
@@ -112,7 +112,7 @@ In [Hugo Themes](https://themes.gohugo.io/), there are many types of themes avai
                 social:
                     - identifier: github
                       name: GitHub
-                      url: $githubLink
+                      url: <githubLink>
                       params:
                           icon: brand-github
             ```  
@@ -145,16 +145,16 @@ In [Hugo Themes](https://themes.gohugo.io/), there are many types of themes avai
         ```  
    * Comment setting
         1. Create a new account on [Disqus](https://disqus.com/) and a new site, then find the shortname in the settings.
-        2. Modify the following in `config.yaml` to add comment functionality (replace `$shortName` with the shortname from Disqus settings):
+        2. Modify the following in `config.yaml` to add comment functionality (replace `<shortName>` with the shortname from Disqus settings):
             ```yaml
-            disqusShortname: $shortName
+            disqusShortname: <shortName>
             params:
                 comments:
                     enabled: true
                     provider: disqus
 
                     disqusjs:
-                        shortname: $shortName
+                        shortname: <shortName>
                         apiUrl:
                         apiKey:
                         admin:
@@ -230,12 +230,12 @@ For the subsequent web deployment, it is necessary to push the web pages generat
     assets/jsconfig.json
     .hugo_build.lock
     ```  
-3. Copy the repository URL `https://github.com/xxx/xxx.git` from the page, and execute the following commands in the root directory (replace `$repoLink` with the repository URL) to push all files to the GitHub repository:
+3. Copy the repository URL `https://github.com/xxx/xxx.git` from the page, and execute the following commands in the root directory (replace `<repoLink>` with the repository URL) to push all files to the GitHub repository:
     ```sh
     git add .
     git commit -m "first commit"
     git branch -M main
-    git remote add origin $repoLink
+    git remote add origin <repoLink>
     git push -u origin main
     ```
 ## Vercel
@@ -263,7 +263,7 @@ In the backend, you can see that Vercel provides a `xxx.vercel.app` URL for the 
 1. Obtain a domain from domain registrars like [Namecheap](https://www.namecheap.com/) or [GoDaddy](https://tw.godaddy.com/).
 2. Change the `baseurl` in `config.yaml` to the obtained domain `https://www.xxx.com`:
     ```yaml
-    baseurl: $domainName
+    baseurl: <domainName>
     ```
 3. Go to `Settings >> Domains` in the backend and add the obtained domain, choosing the recommended method of addition. After adding, the following screen will be displayed:
 ![vercel3](img/vercel3.webp)
@@ -331,6 +331,7 @@ Robots.txt is a set of instructions provided to robots, primarily used to manage
 2. The `Disallow` section can be customized according to individual needs. Here are a few examples:
     ```txt
     Disallow: /page/
-    Disallow: /categories/*
+    Disallow: /page/search/
+    Disallow: /categories/
     ```
 3. Wait for Google Search Console to automatically crawl the site. You can check the status in `Settings >> robots.txt`. If it shows as fetched, the configuration is complete.

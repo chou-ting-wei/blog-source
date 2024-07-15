@@ -8,7 +8,7 @@ categories:
 tags : 
     - 教學
 ---
-* 文章中所有以 `$` 為前綴的指令需被替換，若無特別說明則可以自行命名
+* 文章中所有以 `<>` 框起的指令需被替換，若無特別說明則可以自行命名
 * 有其他問題歡迎在文章下方留言或 [來信](mailto:userwei.contact@gmail.com) 詢問
 
 ## Hugo
@@ -49,9 +49,9 @@ hugo version
 ### 初始化環境
 選擇網頁存放的資料夾，並輸入以下指令新增網頁：
 ```sh
-hugo new site $siteName
+hugo new site <siteName>
 ```  
-完成後會在 `$siteName` 資料夾中生成以下的檔案：
+完成後會在 `<siteName>` 資料夾中生成以下的檔案：
 ```
 ├── archetypes
 │   └── default.md
@@ -66,7 +66,7 @@ hugo new site $siteName
 ```  
 為了方便推送到 GitHub，我們先進入剛剛生成的資料夾初始化整個 Git 儲存庫：
 ```sh
-cd $siteName
+cd <siteName>
 git init
 ```  
 
@@ -83,7 +83,7 @@ git init
     languageCode: zh-tw
     theme: hugo-theme-stack
     paginate: 5
-    title: $blogTitle
+    title: <blogTitle>
     ```  
 3. 其他設定可以參考 Stack 官方提供的 [Config](https://stack.jimmycai.com/config/) 依個人喜好修改：
    * 網站 icon 設定  
@@ -99,7 +99,7 @@ git init
                 sidebar:
                     compact: false
                     emoji: 
-                    subtitle: $subTitle
+                    subtitle: <subTitle>
                     avatar:
                         enabled: true
                         local: true
@@ -111,7 +111,7 @@ git init
                 social:
                     - identifier: github
                       name: GitHub
-                      url: $githubLink
+                      url: <githubLink>
                       params:
                           icon: brand-github
             ```  
@@ -144,16 +144,16 @@ git init
         ```  
    * 留言設定
         1. 至 [Disqus](https://disqus.com/) 建立新帳戶，並創建新的 site，從設定中查詢 shortname。
-        2. 修改以下 `config.yaml` 的內容以增加留言功能（將 `$shortName` 替換為 Disqus 設定中的 shortname）：
+        2. 修改以下 `config.yaml` 的內容以增加留言功能（將 `<shortName>` 替換為 Disqus 設定中的 shortname）：
             ```yaml
-            disqusShortname: $shortName
+            disqusShortname: <shortName>
             params:
                 comments:
                     enabled: true
                     provider: disqus
 
                     disqusjs:
-                        shortname: $shortName
+                        shortname: <shortName>
                         apiUrl:
                         apiKey:
                         admin:
@@ -238,12 +238,12 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
     assets/jsconfig.json
     .hugo_build.lock
     ```  
-3. 複製頁面上儲存庫的網址 `https://github.com/xxx/xxx.git`，並在根目錄中執行以下指令（`$repoLink` 需替換成儲存庫的網址），將全部檔案推送到 GitHub 儲存庫中：
+3. 複製頁面上儲存庫的網址 `https://github.com/xxx/xxx.git`，並在根目錄中執行以下指令（`<repoLink>` 需替換成儲存庫的網址），將全部檔案推送到 GitHub 儲存庫中：
     ```sh
     git add .
     git commit -m "first commit"
     git branch -M main
-    git remote add origin $repoLink
+    git remote add origin <repoLink>
     git push -u origin main
     ```
 ## Vercel
@@ -270,7 +270,7 @@ Hugo 需要使用 [Markdown](https://www.markdownguide.org/getting-started/) 語
 1. 從 [Namecheap](https://www.namecheap.com/)、[GoDaddy](https://tw.godaddy.com/) 等網域註冊商取得一個域名。
 2. 將 `config.yaml` 中的 `baseurl` 更改為取得的域名 `https://www.xxx.com`：
     ```yaml
-    baseurl: $domainName
+    baseurl: <domainName>
     ```
 3. 進入後台 `Settings >> Domains` 加入取得的域名，選擇推薦的加入方式。加入後會顯示以下畫面：
 ![vercel3](img/vercel3.webp)
@@ -337,6 +337,7 @@ Robots.txt 是提供給機器人的一組指令，主要是管理網路爬蟲的
 2.  Disallow 的部分可依個人需求自行增加，這邊簡單舉幾個例子：
     ```txt
     Disallow: /page/
-    Disallow: /categories/*
+    Disallow: /page/search/
+    Disallow: /categories/
     ```
 3. 等待 Google Search Console 自行檢索，可在 `設定 >> robots.txt` 中查看，若顯示已擷取即完成設定。
