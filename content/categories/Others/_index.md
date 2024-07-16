@@ -3,6 +3,6 @@ title: 其他
 slug: others
 image: others.webp
 style:
-    background: "#9796d0"
-    color: "#fff"
+  background: "#9796d0"
+  color: "#fff"
 ---
