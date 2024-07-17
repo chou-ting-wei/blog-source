@@ -33,3 +33,7 @@ I'm 周廷威, currently a sophomore studying Computer Science at National Yang 
   A text-based RPG game completed using C++ object-oriented programming, where players explore dungeons, battle monsters, and seek exits to escape.
 - [StonePle](https://github.com/chou-ting-wei/NEHS_StonePle)  
   A graphical RPG game using Java, set in the year 1856 BC. Players embark on a journey to find their missing mother "StonePle."
+
+## Contact Information
+
+If you have any questions or concerns, please feel free to contact me. For more personal information and contact details, please refer to my [personal profile](https://profile.userwei.com/).

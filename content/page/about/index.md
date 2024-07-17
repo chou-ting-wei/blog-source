@@ -34,3 +34,7 @@ comments: false
   使用 C++ 物件導向完成的文字式 RPG 遊戲，玩家探索地下城並與怪物戰鬥，尋找出口離開地下城。
 - [StonePle](https://github.com/chou-ting-wei/NEHS_StonePle)  
   使用 Java 的圖像化 RPG 遊戲，背景設置在西元前 1856 年，玩家追尋失蹤的令堂「起馱石」的旅程。
+
+## 其他資訊
+
+如有任何問題或疑問，歡迎隨時聯絡我。更多個人資訊和聯絡方式，請參考我的 [個人資料頁面](https://profile.userwei.com/)。
