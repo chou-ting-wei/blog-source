@@ -40,9 +40,9 @@ Since Hugo does not have a GUI, it needs to be installed via the command line. H
    brew install hugo
    ```
 3. Linux
-   `sh
-    sudo snap install hugo
-    `  
+   ```sh
+   sudo snap install hugo
+   ```
    After installing, use the following command to test if Hugo was installed successfully:
 
 ```sh
@@ -103,11 +103,11 @@ In [Hugo Themes](https://themes.gohugo.io/), there are many types of themes avai
 3. Other settings can be modified according to personal preference by referring to the official Stack [Config](https://stack.jimmycai.com/config/):
 
    - Website icon setting  
-     Place `favicon.webp` in the `static` folder and modify the following in `config.yaml`:
+      Place `favicon.webp` in the `static` folder and modify the following in `config.yaml`:
      `yaml
-    params:
-        favicon: favicon.webp
-    `
+params:
+    favicon: favicon.webp
+`
    - Sidebar setting
      1. Place your avatar `avatar.webp` in the `assets/img` folder (create if it doesn't exist) and modify the following in `config.yaml`:
         ```yaml
@@ -209,6 +209,7 @@ Hugo requires using [Markdown](https://www.markdownguide.org/getting-started/) s
        └── index.md
    ```
 3. Use a text editor like [Visual Studio Code](https://code.visualstudio.com/) to edit `index.md`. Below is the basic file content (except for the article property structure, which can be modified):
+
    ```md
    ---
    title: myPost
