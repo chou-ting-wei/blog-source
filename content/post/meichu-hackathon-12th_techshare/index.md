@@ -102,13 +102,15 @@ git init
     ```
 3.  其他設定可以參考 Stack 官方提供的 [Config](https://stack.jimmycai.com/config/) 依個人喜好修改：
 
-        - 網站 icon 設定
-           將 `favicon.webp` 置於 `static` 的資料夾中，並在 `config.yaml` 修改以下內容：
-          `yaml
+    - 網站 icon 設定  
+      將 `favicon.webp` 置於 `static` 的資料夾中，並在 `config.yaml` 修改以下內容：
 
-    params:
-    favicon: favicon.webp
-    ` - 側邊欄設定
+      ```yaml
+      params:
+      favicon: favicon.webp
+      ```
+
+    - 側邊欄設定
 
     1. 將自己的大頭貼`avatar.webp`置於`assets/img`資料夾中（若無則自行新增），並在`config.yaml` 修改以下內容：
        ```yaml
@@ -149,64 +151,64 @@ git init
        ```
 
     - 文章設定  
-       修改以下 `config.yaml` 的內容讓文章可以支援 LaTeX，並加上目錄、閱讀時長、預設 CC 授權等內容：
-      `yaml
-  params:
-    article:
+      修改以下 `config.yaml` 的內容讓文章可以支援 LaTeX，並加上目錄、閱讀時長、預設 CC 授權等內容：
+      ```yaml
+      params:
+      article:
       math: true
       toc: true
       readingTime: true
       license:
         enabled: true
         default: CC BY-NC-SA 4.0
-  ` - 留言設定
+      ```
+    - 留言設定
 
-            1. 至 [Disqus](https://disqus.com/) 建立新帳戶，並創建新的 site，從設定中查詢 shortname。
-            2. 修改以下 `config.yaml` 的內容以增加留言功能（將 `<shortName>` 替換為 Disqus 設定中的 shortname）：
+      1. 至 [Disqus](https://disqus.com/) 建立新帳戶，並創建新的 site，從設定中查詢 shortname。
+      2. 修改以下 `config.yaml` 的內容以增加留言功能（將 `<shortName>` 替換為 Disqus 設定中的 shortname）：
 
-               ```yaml
-               disqusShortname: <shortName>
-               params:
-                 comments:
-                   enabled: true
-                   provider: disqus
+         ```yaml
+         disqusShortname: <shortName>
+         params:
+           comments:
+             enabled: true
+             provider: disqus
 
-                   disqusjs:
-                     shortname: <shortName>
-                     apiUrl:
-                     apiKey:
-                     admin:
-                     adminLabel:
-               ```
+             disqusjs:
+               shortname: <shortName>
+               apiUrl:
+               apiKey:
+               admin:
+               adminLabel:
+         ```
 
-          - widget 設定
-             修改以下 `config.yaml` 的內容使主頁及文章中顯示搜尋、目錄等小工具：
-            ```yaml
-            params:
-                widgets:
-                    homepage:
-                        - type: search
-                        - type: categories
-                        params:
-                            limit: 10
-                        - type: tag-cloud
-                        params:
-                            limit: 10
-                    page:
-                        - type: search
-                        - type: toc
-            ```
-          - zh-tw 用詞設定
-            將 `themes/hugo-theme-stack/i18n` 中的 `zh-tw.yaml` 複製到 `i18n` 資料夾中，並依需求更改：
+    - widget 設定  
+      修改以下 `config.yaml` 的內容使主頁及文章中顯示搜尋、目錄等小工具：
+      ```yaml
+      params:
+          widgets:
+              homepage:
+                  - type: search
+                  - type: categories
+                  params:
+                      limit: 10
+                  - type: tag-cloud
+                  params:
+                      limit: 10
+              page:
+                  - type: search
+                  - type: toc
+      ```
+    - zh-tw 用詞設定  
+      將 `themes/hugo-theme-stack/i18n` 中的 `zh-tw.yaml` 複製到 `i18n` 資料夾中，並依需求更改：
 
-            ````yaml
-            toggleMenu:
-            other: 切換選單
-            darkMode:
-            other: 深色模式
+      ```yaml
+      toggleMenu:
+      other: 切換選單
+      darkMode:
+      other: 深色模式
 
-                ```
-            ````
+      ```
 
 ### 撰寫文章
 
