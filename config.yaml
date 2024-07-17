@@ -201,6 +201,11 @@ menu:
     main: []
 
     social:
+        - identifier: note
+          name: " Note"
+          url: https://note.userwei.com/
+          params:
+              icon: note
         - identifier: github
           name: GitHub
           url: https://github.com/chou-ting-wei/
