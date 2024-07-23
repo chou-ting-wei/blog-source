@@ -103,11 +103,11 @@ git init
 3.  其他設定可以參考 Stack 官方提供的 [Config](https://stack.jimmycai.com/config/) 依個人喜好修改：
 
     - 網站 icon 設定  
-      將 `favicon.webp` 置於 `static` 的資料夾中，並在 `config.yaml` 修改以下內容：
+      將 `favicon.ico` 置於 `static` 的資料夾中，並在 `config.yaml` 修改以下內容：
 
       ```yaml
       params:
-      favicon: favicon.webp
+      favicon: favicon.ico
       ```
 
     - 側邊欄設定

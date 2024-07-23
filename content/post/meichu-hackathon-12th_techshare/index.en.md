@@ -103,10 +103,10 @@ In [Hugo Themes](https://themes.gohugo.io/), there are many types of themes avai
 3. Other settings can be modified according to personal preference by referring to the official Stack [Config](https://stack.jimmycai.com/config/):
 
    - Website icon setting  
-      Place `favicon.webp` in the `static` folder and modify the following in `config.yaml`:
+      Place `favicon.ico` in the `static` folder and modify the following in `config.yaml`:
      ```yaml
      params:
-       favicon: favicon.webp
+       favicon: favicon.ico
      ```
    - Sidebar setting
      1. Place your avatar `avatar.webp` in the `assets/img` folder (create if it doesn't exist) and modify the following in `config.yaml`:
