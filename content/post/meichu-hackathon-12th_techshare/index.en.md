@@ -386,3 +386,10 @@ Robots.txt is a set of instructions provided to robots, primarily used to manage
    Disallow: /categories/
    ```
 3. Wait for Google Search Console to automatically crawl the site. You can check the status in `Settings >> robots.txt`. If it shows as fetched, the configuration is complete.
+
+## Further Reading
+
+Our personal website setup concludes here. If you want to learn more about the related technologies and tools, please refer to the following resources:
+
+- [Git/GitHub | userwei's Notes](https://note.userwei.com/docs/setup-syntax/tools/git-github/)
+- [Hugo | userwei's Notes](https://note.userwei.com/docs/setup-syntax/tools/hugo/)
