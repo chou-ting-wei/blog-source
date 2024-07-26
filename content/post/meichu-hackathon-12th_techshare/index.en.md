@@ -391,5 +391,5 @@ Robots.txt is a set of instructions provided to robots, primarily used to manage
 
 Our personal website setup concludes here. If you want to learn more about the related technologies and tools, please refer to the following resources:
 
-- [Git/GitHub | userwei's Notes](https://note.userwei.com/docs/setup-syntax/tools/git-github/)
-- [Hugo | userwei's Notes](https://note.userwei.com/docs/setup-syntax/tools/hugo/)
+- [Git/GitHub | userwei 的筆記](https://note.userwei.com/docs/setup/tool/git/)
+- [Hugo | userwei 的筆記](https://note.userwei.com/docs/setup/tool/hugo/)

@@ -404,5 +404,5 @@ Robots.txt 是提供給機器人的一組指令，主要是管理網路爬蟲的
 
 我們的個人網頁架設到這邊告一段落，如果您想進一步了解更多相關技術和工具，請參閱以下資源：
 
-- [Git/GitHub | userwei 的筆記](https://note.userwei.com/docs/setup-syntax/tools/git-github/)
-- [Hugo | userwei 的筆記](https://note.userwei.com/docs/setup-syntax/tools/hugo/)
+- [Git/GitHub | userwei 的筆記](https://note.userwei.com/docs/setup/tool/git/)
+- [Hugo | userwei 的筆記](https://note.userwei.com/docs/setup/tool/hugo/)
