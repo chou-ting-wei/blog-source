@@ -32,18 +32,24 @@ tags:
 由於 Hugo 並未提供 GUI，因此需要由終端機安裝，以下是 Hugo 官方提供在不同系統下的 [安裝方法](https://gohugo.io/categories/installation/)：
 
 1. Windows
+
    ```sh
    choco install hugo-extended
    ```
+
 2. macOS
+
    ```sh
    brew install hugo
    ```
+
 3. Linux
+
    ```sh
    sudo snap install hugo
    ```
-   在安裝完成後使用以下指令測試 Hugo 是否安裝成功：
+
+在安裝完成後使用以下指令測試 Hugo 是否安裝成功：
 
 ```sh
 hugo version
