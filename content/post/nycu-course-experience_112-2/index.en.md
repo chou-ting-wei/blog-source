@@ -180,9 +180,9 @@ tags:
   - The final practical exam covers the entire semester's content, slightly harder than the midterm, requiring proficiency with various commands, and electronic files can be used as reference material.
   - TAs mentioned grade adjustments, though specific details weren't disclosed; likely not a significant boost.
 - Grading
-  - Project (10%\*4), Mid (20%), Final1 (20%), Final2 (20%)
+  - Project (10%*4), Mid (20%), Final1 (20%), Final2 (20%)
   - Adjustment: Overall grade +1
-  - Average: Not disclosed
+  - Average: 73.1
 - Grades
   | Project1 | Project2 | Project3 | Project4 | Mid | Final1 | Final2 | Total |
   |:--------:|:--------:|:--------:|:--------:|:---:|:------:|:------:|:------:|
